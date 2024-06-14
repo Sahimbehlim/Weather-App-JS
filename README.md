@@ -15,3 +15,6 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
   2. Click on the search icon/button.
   3. The app will fetch the weather data and display it on the screen.
   4. The weather condition image will be updated accordingly.
+
+# Live Demo 
+https://sahimbehlim.github.io/Weather-App-JS/
